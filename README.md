@@ -2,6 +2,8 @@
 
 ##### Tiny package for indicating progress in a border.
 
+![Image](https://raw.githubusercontent.com/berkekbgz/border_progress_indicator/main/resources/image.png)
+
 ### Usage
 
 Wrap your widget in `BorderProgressIndicator`

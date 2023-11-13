@@ -14,3 +14,7 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^2.0.0
+
+screenshots:
+  - description: 'Example of Border Progress Indicator'
+    path: resources/image.png
