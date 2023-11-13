@@ -1,0 +1,16 @@
+name: border_progress_indicator
+description: Border Progress Indicator for Flutter
+version: 0.0.1
+homepage: https://github.com/berkekbgz/border_progress_indicator
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
